@@ -60,12 +60,11 @@ I can work on various blockchain platforms like Ethereum, Binance Smart Chain, S
 <p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=BlockchainCrazy95&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
 </p> 
-<div>
+
   - 📫 How to reach me **blackhole1225@gmail.com** 
-</div>
-<div>
+
   - ⚡ Fun fact **Rabbits can see behind them without moving their heads**
-</div>
+
 
 ### **Interest:**
 - Blockchain Ecosystem & Platforms (Ethereum/BSC/Solana/Polygon)
