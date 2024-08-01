@@ -56,9 +56,6 @@ I can work on various blockchain platforms like Ethereum, Binance Smart Chain, S
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
   </a>
 </h1>
-<p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=BlockchainCrazy95&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
-</p> 
 
   - 📫 How to reach me **blackhole1225@gmail.com** 
 
