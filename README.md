@@ -66,7 +66,7 @@ I can work on various blockchain platforms like Ethereum, Binance Smart Chain, S
   - ⚡ Fun fact **Rabbits can see behind them without moving their heads**
 
 
-### **Interest:**
+### **Main Skills:**
 - Blockchain Ecosystem & Platforms (Ethereum/BSC/Solana/Polygon)
 - Smart Contract Development / Testing / Auditing (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)
 - DeFi & Dapps (Uniswap, PancakeSwap, NFT minting site, NFT marketplace - Metaplex, Wallet)
