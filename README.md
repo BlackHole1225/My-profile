@@ -7,6 +7,7 @@ Nice to meet you!
 <br/>
 I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain technology.
 I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.
+
   - 📫 How to reach me **blackhole1225@gmail.com** 
 
 
